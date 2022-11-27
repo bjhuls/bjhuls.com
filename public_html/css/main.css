@@ -5,7 +5,7 @@
 
 :root {
     --base-color: #d2dae2;
-    --secondary-color: #0be811;
+    --secondary-color: #88c2f9;
 }
 
 body {
@@ -86,7 +86,7 @@ footer {
     transition: 0.2s ease-in;
 }
 
-    .sm-logo:hover, .nav-link:hover, .nav-link.selected, .green-detail {
+    .sm-logo:hover, .nav-link:hover, .nav-link.selected, .blue-detail {
         color: var(--secondary-color);
     }
 

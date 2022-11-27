@@ -1,0 +1,17 @@
+{
+    "name": "BJ Huls",
+    "short_name": "BJ",
+    "start_url": "/",
+    "icons": [
+        {
+            "src": "images/logo.png",
+            "sizes": "128x128",
+            "type": "image/png",
+            "purpose": "any"
+        }
+    ],
+    "theme_color": "#000000",
+    "background_color": "#FFFFFF",
+    "display": "fullscreen",
+    "orientation": "portrait"
+}
